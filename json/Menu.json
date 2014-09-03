@@ -1,0 +1,28 @@
+{
+    "items": [{
+        "id": "1",
+        "name": "About Smart Skins"
+    },
+    {
+        "id": "2",
+        "name": "Marketing Strategies & Public Relations"
+    },
+    {
+        "id": "3",
+        "name": "Social Media & Helpful Viral Campaigns"
+    },
+    {
+        "id": "4",
+        "name": "Building Brand Personailty"
+    },
+    {
+        "id": "5",
+        "name": "Website Design & Development"
+    },{
+        "id": "6",
+        "name": "Let's Talk"
+    },{
+        "id": "7",
+        "name": "Privacy"
+    }]
+}
